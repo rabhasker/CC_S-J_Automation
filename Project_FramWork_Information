@@ -1,0 +1,34 @@
+*****Create a Maven project
+
+*****Add required dependencies to the POM.xml
+
+*****Dependencies required/or used in this framework*****
+(i)   Selenium-Java
+(ii)  TestNG
+(iii) ExtentReports
+(iv)  Apache-poi
+(v)   Apache-poi-ooxml
+(vi)  Log4J-core
+(vii) Log4j-api
+(viii)jackson-databind
+(ix)  commons-io
+(x)   jackson-core
+(xi)  jackson-annotations
+
+*****Folders to be created*****
+1) src/main/resource (to place log4j.properties file)
+2) Configuration (to place configFile for hard coded values)
+3) Logs
+4) ScreenShots
+5) Reports
+
+*****Packages*****
+1) Element Package 
+2) Action Package
+3) TestCase Package
+4) Utilities Package
+
+
+Git-Hub-URL = https://github.com/rabhasker/CC_S-J_Automation.git
+
+ 

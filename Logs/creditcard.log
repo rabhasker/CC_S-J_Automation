@@ -1,0 +1,313 @@
+[2024-07-03T16:34:07,085] [main] INFO : msedge browser initialized successfully
+[2024-07-03T16:34:14,377] [main] INFO : URL opened successfully
+[2024-07-03T16:34:14,462] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-03T16:34:14,807] [main] INFO : Clicked 'Apply now' button, a new window should open
+[2024-07-03T16:34:17,671] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Apply URL - Passed)
+[2024-07-03T16:34:21,102] [main] INFO : Expected Sapphire Preferred learn more URL and actual Sapphire Preferred learn more URL are same (verifying learn more URL - Passed)
+[2024-07-03T16:34:24,470] [main] INFO : Clicked Freedom Unlimited Apply, new window should open
+[2024-07-03T16:34:25,204] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Freedom Apply URL - Passed)
+[2024-07-03T16:34:28,337] [main] INFO : Expected Learn more URL and Actual Learn more URL are the same (verifying Freedom Learn moreURL - Passed)
+[2024-07-03T16:34:34,637] [main] INFO : Clicked Amazon learn more, new window should open
+[2024-07-03T16:34:34,647] [main] INFO : Expected Learn URL and Actual Learn more URL are the same (verifying Amazon learn more URL - Passed)
+[2024-07-06T22:20:12,302] [main] INFO : msedge browser initialized successfully
+[2024-07-06T22:20:25,437] [main] INFO : URL opened successfully
+[2024-07-06T22:20:25,546] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-06T22:22:51,585] [main] INFO : msedge browser initialized successfully
+[2024-07-06T22:23:01,955] [main] INFO : URL opened successfully
+[2024-07-06T22:23:02,058] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-06T22:36:59,164] [main] INFO : msedge browser initialized successfully
+[2024-07-06T22:37:07,935] [main] INFO : URL opened successfully
+[2024-07-06T22:37:08,027] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-06T22:47:11,415] [main] INFO : msedge browser initialized successfully
+[2024-07-06T22:47:19,003] [main] INFO : URL opened successfully
+[2024-07-06T22:47:19,094] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-06T22:47:20,430] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Sapphire Reserve Apply Now URL - Passed)
+[2024-07-06T23:20:40,394] [main] INFO : msedge browser initialized successfully
+[2024-07-06T23:20:51,340] [main] INFO : URL opened successfully
+[2024-07-06T23:20:51,445] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-06T23:28:00,912] [main] INFO : msedge browser initialized successfully
+[2024-07-06T23:28:09,910] [main] INFO : URL opened successfully
+[2024-07-06T23:28:10,026] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-06T23:29:57,769] [main] INFO : msedge browser initialized successfully
+[2024-07-06T23:30:04,439] [main] INFO : URL opened successfully
+[2024-07-06T23:30:04,534] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-06T23:33:02,230] [main] INFO : msedge browser initialized successfully
+[2024-07-06T23:33:13,277] [main] INFO : URL opened successfully
+[2024-07-06T23:33:13,397] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-06T23:35:40,915] [main] INFO : msedge browser initialized successfully
+[2024-07-06T23:35:50,539] [main] INFO : URL opened successfully
+[2024-07-06T23:35:50,643] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-06T23:39:26,949] [main] INFO : msedge browser initialized successfully
+[2024-07-06T23:39:33,971] [main] INFO : URL opened successfully
+[2024-07-06T23:39:34,079] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-07T00:00:36,343] [main] INFO : msedge browser initialized successfully
+[2024-07-07T00:00:45,401] [main] INFO : URL opened successfully
+[2024-07-07T00:00:45,507] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-07T00:00:46,758] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Sapphire Reserve Apply Now URL - Passed)
+[2024-07-07T00:05:07,438] [main] INFO : msedge browser initialized successfully
+[2024-07-07T00:05:16,861] [main] INFO : URL opened successfully
+[2024-07-07T00:05:16,966] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-07T00:05:18,246] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Sapphire Reserve Apply Now URL - Passed)
+[2024-07-07T00:05:22,541] [main] INFO : Expected Learn more URL and Actual Learn more URL are same (verifying Sapphire Reserve Learn more URL - Passed)
+[2024-07-07T00:05:26,793] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Southwest Rapid Rewards Apply URL - Passed)
+[2024-07-07T00:05:32,971] [main] INFO : Expected Learn more URL and Actual Learn more URL are same (verifying Southwest Rapid Rewards Learn more URL - Passed)
+[2024-07-07T00:05:39,285] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying United Apply URL - Passed)
+[2024-07-07T00:05:43,108] [main] INFO : Expected Learn now URL and Actual Learn now URL is same (verifying United Learn more URL - Passed
+[2024-07-07T00:06:24,271] [main] INFO : msedge browser initialized successfully
+[2024-07-07T00:06:30,089] [main] INFO : URL opened successfully
+[2024-07-07T00:06:30,204] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-07T00:06:30,502] [main] INFO : Clicked 'Apply now' button, a new window should open
+[2024-07-07T00:06:31,712] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Apply URL - Passed)
+[2024-07-07T00:06:35,782] [main] INFO : Expected Sapphire Preferred learn more URL and actual Sapphire Preferred learn more URL are same (verifying learn more URL - Passed)
+[2024-07-07T00:06:39,030] [main] INFO : Clicked Freedom Unlimited Apply, new window should open
+[2024-07-07T00:06:39,880] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Freedom Apply URL - Passed)
+[2024-07-07T00:06:43,404] [main] INFO : Expected Learn more URL and Actual Learn more URL are the same (verifying Freedom Learn moreURL - Passed)
+[2024-07-07T00:06:50,242] [main] INFO : Clicked Amazon learn more, new window should open
+[2024-07-07T00:06:50,261] [main] INFO : Expected Learn URL and Actual Learn more URL are the same (verifying Amazon learn more URL - Passed)
+[2024-07-07T00:08:01,962] [main] INFO : msedge browser initialized successfully
+[2024-07-07T00:08:08,269] [main] INFO : URL opened successfully
+[2024-07-07T00:08:08,373] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-07T00:08:08,649] [main] INFO : Clicked 'Apply now' button, a new window should open
+[2024-07-07T00:08:09,768] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Apply URL - Passed)
+[2024-07-07T00:08:13,359] [main] INFO : Expected Sapphire Preferred learn more URL and actual Sapphire Preferred learn more URL are same (verifying learn more URL - Passed)
+[2024-07-07T00:08:17,068] [main] INFO : Clicked Freedom Unlimited Apply, new window should open
+[2024-07-07T00:08:18,269] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Freedom Apply URL - Passed)
+[2024-07-07T00:08:21,695] [main] INFO : Expected Learn more URL and Actual Learn more URL are the same (verifying Freedom Learn moreURL - Passed)
+[2024-07-07T00:08:28,415] [main] INFO : Clicked Amazon learn more, new window should open
+[2024-07-07T00:08:28,436] [main] INFO : Expected Learn URL and Actual Learn more URL are the same (verifying Amazon learn more URL - Passed)
+[2024-07-07T00:15:50,526] [main] INFO : msedge browser initialized successfully
+[2024-07-07T00:15:56,950] [main] INFO : URL opened successfully
+[2024-07-07T00:15:57,062] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-07T00:15:57,361] [main] INFO : Clicked 'Apply now' button, a new window should open
+[2024-07-07T00:15:58,214] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Apply URL - Passed)
+[2024-07-07T00:16:02,329] [main] INFO : Expected Sapphire Preferred learn more URL and actual Sapphire Preferred learn more URL are same (verifying learn more URL - Passed)
+[2024-07-07T00:16:06,040] [main] INFO : Clicked Freedom Unlimited Apply, new window should open
+[2024-07-07T00:16:06,836] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Freedom Apply URL - Passed)
+[2024-07-07T00:16:11,499] [main] INFO : Expected Learn more URL and Actual Learn more URL are the same (verifying Freedom Learn moreURL - Passed)
+[2024-07-07T00:16:18,294] [main] INFO : Clicked Amazon learn more, new window should open
+[2024-07-07T00:16:18,319] [main] INFO : Expected Learn URL and Actual Learn more URL are the same (verifying Amazon learn more URL - Passed)
+[2024-07-07T00:16:22,205] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Sapphire Reserve Apply Now URL - Passed)
+[2024-07-07T00:16:26,619] [main] INFO : Expected Learn more URL and Actual Learn more URL are same (verifying Sapphire Reserve Learn more URL - Passed)
+[2024-07-07T00:16:31,247] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Southwest Rapid Rewards Apply URL - Passed)
+[2024-07-07T00:16:35,030] [main] INFO : Expected Learn more URL and Actual Learn more URL are same (verifying Southwest Rapid Rewards Learn more URL - Passed)
+[2024-07-07T00:16:39,294] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying United Apply URL - Passed)
+[2024-07-07T00:16:42,801] [main] INFO : Expected Learn now URL and Actual Learn now URL is same (verifying United Learn more URL - Passed
+[2024-07-11T14:12:11,503] [main] INFO : msedge browser initialized successfully
+[2024-07-11T14:12:19,523] [main] INFO : URL opened successfully
+[2024-07-11T14:12:19,637] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T14:14:10,981] [main] INFO : msedge browser initialized successfully
+[2024-07-11T14:14:19,766] [main] INFO : URL opened successfully
+[2024-07-11T14:14:19,867] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T14:49:07,540] [main] INFO : msedge browser initialized successfully
+[2024-07-11T14:49:19,624] [main] INFO : URL opened successfully
+[2024-07-11T14:49:19,736] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T14:49:21,540] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T14:51:11,860] [main] INFO : msedge browser initialized successfully
+[2024-07-11T14:51:17,859] [main] INFO : URL opened successfully
+[2024-07-11T14:51:17,964] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T14:51:19,410] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T14:54:23,272] [main] INFO : msedge browser initialized successfully
+[2024-07-11T14:54:29,588] [main] INFO : URL opened successfully
+[2024-07-11T14:54:29,703] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T14:54:31,330] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T15:08:07,108] [main] INFO : msedge browser initialized successfully
+[2024-07-11T15:08:13,625] [main] INFO : URL opened successfully
+[2024-07-11T15:08:13,724] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T16:04:52,167] [main] INFO : msedge browser initialized successfully
+[2024-07-11T16:05:05,043] [main] INFO : URL opened successfully
+[2024-07-11T16:05:05,141] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T16:05:07,243] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T16:05:10,437] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T16:28:45,604] [main] INFO : msedge browser initialized successfully
+[2024-07-11T16:28:53,694] [main] INFO : URL opened successfully
+[2024-07-11T16:28:53,807] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T16:28:55,882] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T16:28:59,297] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T16:29:03,833] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is same (Verifying Ink Preferred Apply now URL - PASSED
+[2024-07-11T16:41:47,096] [main] INFO : msedge browser initialized successfully
+[2024-07-11T16:41:55,793] [main] INFO : URL opened successfully
+[2024-07-11T16:41:55,878] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T16:41:58,044] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T16:42:01,158] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T16:42:05,802] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is same (Verifying Ink Preferred Apply now URL - PASSED
+[2024-07-11T16:42:08,510] [main] INFO : Expected Ink Preferred Learn more URL and Actual Ink Preferred Learn more URL is same (Varifying Ink Preferred Learn more URL - PASSED
+[2024-07-11T16:53:13,683] [main] INFO : msedge browser initialized successfully
+[2024-07-11T16:53:20,533] [main] INFO : URL opened successfully
+[2024-07-11T16:53:20,646] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T16:53:22,063] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T16:53:24,875] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T16:53:29,612] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is same (Verifying Ink Preferred Apply now URL - PASSED
+[2024-07-11T16:53:32,594] [main] INFO : Expected Ink Preferred Learn more URL and Actual Ink Preferred Learn more URL is same (Varifying Ink Preferred Learn more URL - PASSED
+[2024-07-11T16:53:36,913] [main] INFO : Expected South West Performance Apply now URL and Actual South West Performance Apply URL is same (Varifying South West Performance Apply URL - PASSED
+[2024-07-11T17:03:38,865] [main] INFO : msedge browser initialized successfully
+[2024-07-11T17:03:46,066] [main] INFO : URL opened successfully
+[2024-07-11T17:03:46,191] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T17:03:47,961] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T17:03:50,743] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T17:03:55,228] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is same (Verifying Ink Preferred Apply now URL - PASSED
+[2024-07-11T17:03:57,840] [main] INFO : Expected Ink Preferred Learn more URL and Actual Ink Preferred Learn more URL is same (Varifying Ink Preferred Learn more URL - PASSED
+[2024-07-11T17:04:02,333] [main] INFO : Expected South West Performance Apply now URL and Actual South West Performance Apply URL is same (Varifying South West Performance Apply URL - PASSED
+[2024-07-11T17:04:04,873] [main] INFO : Expected South West Performance Learn more URL and Actual South West Performance Learn more Url is same (Varifying South West Performance Learn more URL - PASSED
+[2024-07-11T17:06:50,209] [main] INFO : msedge browser initialized successfully
+[2024-07-11T17:06:56,564] [main] INFO : URL opened successfully
+[2024-07-11T17:06:56,666] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T17:06:58,540] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T17:07:01,117] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T17:07:05,394] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is same (Verifying Ink Preferred Apply now URL - PASSED
+[2024-07-11T17:07:07,763] [main] INFO : Expected Ink Preferred Learn more URL and Actual Ink Preferred Learn more URL is same (Varifying Ink Preferred Learn more URL - PASSED
+[2024-07-11T17:07:12,113] [main] INFO : Expected South West Performance Apply now URL and Actual South West Performance Apply URL is same (Varifying South West Performance Apply URL - PASSED
+[2024-07-11T17:07:14,612] [main] INFO : Expected South West Performance Learn more URL and Actual South West Performance Learn more Url is same (Varifying South West Performance Learn more URL - PASSED
+[2024-07-11T17:12:27,644] [main] INFO : msedge browser initialized successfully
+[2024-07-11T17:12:35,709] [main] INFO : URL opened successfully
+[2024-07-11T17:12:35,825] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T17:12:36,134] [main] INFO : Clicked 'Apply now' button, a new window should open
+[2024-07-11T17:12:37,694] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Apply URL - Passed)
+[2024-07-11T17:12:40,953] [main] INFO : Expected Sapphire Preferred learn more URL and actual Sapphire Preferred learn more URL are same (verifying learn more URL - Passed)
+[2024-07-11T17:12:44,844] [main] INFO : Clicked Freedom Unlimited Apply, new window should open
+[2024-07-11T17:12:46,001] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Freedom Apply URL - Passed)
+[2024-07-11T17:12:49,466] [main] INFO : Expected Learn more URL and Actual Learn more URL are the same (verifying Freedom Learn moreURL - Passed)
+[2024-07-11T17:12:56,105] [main] INFO : Clicked Amazon learn more, new window should open
+[2024-07-11T17:12:56,128] [main] INFO : Expected Learn URL and Actual Learn more URL are the same (verifying Amazon learn more URL - Passed)
+[2024-07-11T17:12:59,950] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Sapphire Reserve Apply Now URL - Passed)
+[2024-07-11T17:13:03,530] [main] INFO : Expected Learn more URL and Actual Learn more URL are same (verifying Sapphire Reserve Learn more URL - Passed)
+[2024-07-11T17:13:07,061] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Southwest Rapid Rewards Apply URL - Passed)
+[2024-07-11T17:13:11,034] [main] INFO : Expected Learn more URL and Actual Learn more URL are same (verifying Southwest Rapid Rewards Learn more URL - Passed)
+[2024-07-11T17:13:14,647] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying United Apply URL - Passed)
+[2024-07-11T17:13:17,864] [main] INFO : Expected Learn now URL and Actual Learn now URL is same (verifying United Learn more URL - Passed
+[2024-07-11T17:16:29,900] [main] INFO : msedge browser initialized successfully
+[2024-07-11T17:16:36,174] [main] INFO : URL opened successfully
+[2024-07-11T17:16:36,285] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T17:16:36,588] [main] INFO : Clicked 'Apply now' button, a new window should open
+[2024-07-11T17:16:41,288] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Apply URL - Passed)
+[2024-07-11T17:16:44,765] [main] INFO : Expected Sapphire Preferred learn more URL and actual Sapphire Preferred learn more URL are same (verifying learn more URL - Passed)
+[2024-07-11T17:16:48,400] [main] INFO : Clicked Freedom Unlimited Apply, new window should open
+[2024-07-11T17:16:49,416] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Freedom Apply URL - Passed)
+[2024-07-11T17:16:52,672] [main] INFO : Expected Learn more URL and Actual Learn more URL are the same (verifying Freedom Learn moreURL - Passed)
+[2024-07-11T17:16:59,356] [main] INFO : Clicked Amazon learn more, new window should open
+[2024-07-11T17:16:59,369] [main] INFO : Expected Learn URL and Actual Learn more URL are the same (verifying Amazon learn more URL - Passed)
+[2024-07-11T17:17:03,676] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Sapphire Reserve Apply Now URL - Passed)
+[2024-07-11T17:17:07,289] [main] INFO : Expected Learn more URL and Actual Learn more URL are same (verifying Sapphire Reserve Learn more URL - Passed)
+[2024-07-11T17:17:11,455] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Southwest Rapid Rewards Apply URL - Passed)
+[2024-07-11T17:17:14,403] [main] INFO : Expected Learn more URL and Actual Learn more URL are same (verifying Southwest Rapid Rewards Learn more URL - Passed)
+[2024-07-11T17:17:17,951] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying United Apply URL - Passed)
+[2024-07-11T17:17:21,599] [main] INFO : Expected Learn now URL and Actual Learn now URL is same (verifying United Learn more URL - Passed
+[2024-07-11T17:20:18,244] [main] INFO : msedge browser initialized successfully
+[2024-07-11T17:20:25,805] [main] INFO : URL opened successfully
+[2024-07-11T17:20:25,916] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T17:20:28,273] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Sapphire Reserve Apply Now URL - Passed)
+[2024-07-11T17:20:32,043] [main] INFO : Expected Learn more URL and Actual Learn more URL are same (verifying Sapphire Reserve Learn more URL - Passed)
+[2024-07-11T17:20:35,798] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Southwest Rapid Rewards Apply URL - Passed)
+[2024-07-11T17:20:38,450] [main] INFO : Expected Learn more URL and Actual Learn more URL are same (verifying Southwest Rapid Rewards Learn more URL - Passed)
+[2024-07-11T17:20:42,056] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying United Apply URL - Passed)
+[2024-07-11T17:20:44,960] [main] INFO : Expected Learn now URL and Actual Learn now URL is same (verifying United Learn more URL - Passed
+[2024-07-11T17:20:49,470] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T17:20:51,983] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T17:20:56,402] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is same (Verifying Ink Preferred Apply now URL - PASSED
+[2024-07-11T17:20:58,889] [main] INFO : Expected Ink Preferred Learn more URL and Actual Ink Preferred Learn more URL is same (Varifying Ink Preferred Learn more URL - PASSED
+[2024-07-11T17:21:03,387] [main] INFO : Expected South West Performance Apply now URL and Actual South West Performance Apply URL is same (Varifying South West Performance Apply URL - PASSED
+[2024-07-11T17:21:06,000] [main] INFO : Expected South West Performance Learn more URL and Actual South West Performance Learn more Url is same (Varifying South West Performance Learn more URL - PASSED
+[2024-07-11T17:21:42,339] [main] INFO : msedge browser initialized successfully
+[2024-07-11T17:21:48,028] [main] INFO : URL opened successfully
+[2024-07-11T17:21:48,132] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T17:21:48,522] [main] INFO : Clicked 'Apply now' button, a new window should open
+[2024-07-11T17:21:49,734] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Apply URL - Passed)
+[2024-07-11T17:21:52,965] [main] INFO : Expected Sapphire Preferred learn more URL and actual Sapphire Preferred learn more URL are same (verifying learn more URL - Passed)
+[2024-07-11T17:21:56,370] [main] INFO : Clicked Freedom Unlimited Apply, new window should open
+[2024-07-11T17:21:57,548] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Freedom Apply URL - Passed)
+[2024-07-11T17:22:02,028] [main] INFO : Expected Learn more URL and Actual Learn more URL are the same (verifying Freedom Learn moreURL - Passed)
+[2024-07-11T17:22:08,787] [main] INFO : Clicked Amazon learn more, new window should open
+[2024-07-11T17:22:08,806] [main] INFO : Expected Learn URL and Actual Learn more URL are the same (verifying Amazon learn more URL - Passed)
+[2024-07-11T17:22:12,763] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Sapphire Reserve Apply Now URL - Passed)
+[2024-07-11T17:22:16,602] [main] INFO : Expected Learn more URL and Actual Learn more URL are same (verifying Sapphire Reserve Learn more URL - Passed)
+[2024-07-11T17:22:20,673] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Southwest Rapid Rewards Apply URL - Passed)
+[2024-07-11T17:22:23,719] [main] INFO : Expected Learn more URL and Actual Learn more URL are same (verifying Southwest Rapid Rewards Learn more URL - Passed)
+[2024-07-11T17:22:28,538] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying United Apply URL - Passed)
+[2024-07-11T17:22:31,626] [main] INFO : Expected Learn now URL and Actual Learn now URL is same (verifying United Learn more URL - Passed
+[2024-07-11T17:22:35,800] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T17:22:38,309] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T17:22:42,809] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is same (Verifying Ink Preferred Apply now URL - PASSED
+[2024-07-11T17:22:46,091] [main] INFO : Expected Ink Preferred Learn more URL and Actual Ink Preferred Learn more URL is same (Varifying Ink Preferred Learn more URL - PASSED
+[2024-07-11T17:22:50,769] [main] INFO : Expected South West Performance Apply now URL and Actual South West Performance Apply URL is same (Varifying South West Performance Apply URL - PASSED
+[2024-07-11T17:22:53,354] [main] INFO : Expected South West Performance Learn more URL and Actual South West Performance Learn more Url is same (Varifying South West Performance Learn more URL - PASSED
+[2024-07-11T17:28:29,933] [main] INFO : msedge browser initialized successfully
+[2024-07-11T17:28:36,030] [main] INFO : URL opened successfully
+[2024-07-11T17:28:36,129] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T17:28:37,802] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T17:28:40,569] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T17:28:44,723] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is same (Verifying Ink Preferred Apply now URL - PASSED
+[2024-07-11T17:28:47,206] [main] INFO : Expected Ink Preferred Learn more URL and Actual Ink Preferred Learn more URL is same (Varifying Ink Preferred Learn more URL - PASSED
+[2024-07-11T17:28:51,768] [main] INFO : Expected South West Performance Apply now URL and Actual South West Performance Apply URL is same (Varifying South West Performance Apply URL - PASSED
+[2024-07-11T17:28:54,372] [main] INFO : Expected South West Performance Learn more URL and Actual South West Performance Learn more Url is same (Varifying South West Performance Learn more URL - PASSED
+[2024-07-11T17:31:19,669] [main] INFO : msedge browser initialized successfully
+[2024-07-11T17:31:25,285] [main] INFO : URL opened successfully
+[2024-07-11T17:31:25,395] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T17:31:26,844] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T17:31:29,421] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T17:31:34,326] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is same (Verifying Ink Preferred Apply now URL - PASSED
+[2024-07-11T17:31:36,745] [main] INFO : Expected Ink Preferred Learn more URL and Actual Ink Preferred Learn more URL is same (Varifying Ink Preferred Learn more URL - PASSED
+[2024-07-11T17:31:41,049] [main] INFO : Expected South West Performance Apply now URL and Actual South West Performance Apply URL is same (Varifying South West Performance Apply URL - PASSED
+[2024-07-11T17:31:43,804] [main] INFO : Expected South West Performance Learn more URL and Actual South West Performance Learn more Url is same (Varifying South West Performance Learn more URL - PASSED
+[2024-07-11T17:33:52,807] [main] INFO : msedge browser initialized successfully
+[2024-07-11T17:33:59,774] [main] INFO : URL opened successfully
+[2024-07-11T17:33:59,880] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T17:34:01,501] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T17:34:04,269] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T17:34:08,773] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is same (Verifying Ink Preferred Apply now URL - PASSED
+[2024-07-11T17:34:11,314] [main] INFO : Expected Ink Preferred Learn more URL and Actual Ink Preferred Learn more URL is same (Varifying Ink Preferred Learn more URL - PASSED
+[2024-07-11T17:34:16,201] [main] INFO : Expected South West Performance Apply now URL and Actual South West Performance Apply URL is same (Varifying South West Performance Apply URL - PASSED
+[2024-07-11T17:34:19,980] [main] INFO : Expected South West Performance Learn more URL and Actual South West Performance Learn more Url is same (Varifying South West Performance Learn more URL - PASSED
+[2024-07-11T17:41:05,994] [main] INFO : msedge browser initialized successfully
+[2024-07-11T17:41:12,891] [main] INFO : URL opened successfully
+[2024-07-11T17:41:13,002] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T17:41:14,800] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T17:41:17,434] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T17:41:21,392] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is same (Verifying Ink Preferred Apply now URL - PASSED
+[2024-07-11T17:41:23,881] [main] INFO : Expected Ink Preferred Learn more URL and Actual Ink Preferred Learn more URL is same (Varifying Ink Preferred Learn more URL - PASSED
+[2024-07-11T17:41:27,910] [main] INFO : Expected South West Performance Apply now URL and Actual South West Performance Apply URL is same (Varifying South West Performance Apply URL - PASSED
+[2024-07-11T17:41:30,450] [main] INFO : Expected South West Performance Learn more URL and Actual South West Performance Learn more Url is same (Varifying South West Performance Learn more URL - PASSED
+[2024-07-11T19:20:30,297] [main] INFO : msedge browser initialized successfully
+[2024-07-11T19:20:37,602] [main] INFO : URL opened successfully
+[2024-07-11T19:20:37,682] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T19:20:39,518] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T19:20:42,011] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T19:20:46,196] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is same (Verifying Ink Preferred Apply now URL - PASSED
+[2024-07-11T19:20:48,880] [main] INFO : Expected Ink Preferred Learn more URL and Actual Ink Preferred Learn more URL is same (Varifying Ink Preferred Learn more URL - PASSED
+[2024-07-11T19:20:53,165] [main] INFO : Expected South West Performance Apply now URL and Actual South West Performance Apply URL is same (Varifying South West Performance Apply URL - PASSED
+[2024-07-11T19:20:55,679] [main] INFO : Expected South West Performance Learn more URL and Actual South West Performance Learn more Url is same (Varifying South West Performance Learn more URL - PASSED
+[2024-07-11T19:53:35,393] [main] INFO : URL opened successfully
+[2024-07-11T19:53:35,422] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T19:53:38,159] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T19:53:40,577] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T19:53:44,551] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is same (Verifying Ink Preferred Apply now URL - PASSED
+[2024-07-11T19:53:47,150] [main] INFO : Expected Ink Preferred Learn more URL and Actual Ink Preferred Learn more URL is same (Varifying Ink Preferred Learn more URL - PASSED
+[2024-07-11T19:53:51,171] [main] INFO : Expected South West Performance Apply now URL and Actual South West Performance Apply URL is same (Varifying South West Performance Apply URL - PASSED
+[2024-07-11T20:19:37,192] [main] INFO : URL opened successfully
+[2024-07-11T20:19:37,225] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-11T20:19:39,847] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-11T20:19:42,238] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-11T20:19:46,133] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is same (Verifying Ink Preferred Apply now URL - PASSED
+[2024-07-11T20:19:49,731] [main] INFO : Expected Ink Preferred Learn more URL and Actual Ink Preferred Learn more URL is same (Varifying Ink Preferred Learn more URL - PASSED
+[2024-07-11T20:19:54,522] [main] INFO : Expected South West Performance Apply now URL and Actual South West Performance Apply URL is same (Varifying South West Performance Apply URL - PASSED
+[2024-07-11T20:19:56,907] [main] INFO : Expected South West Performance Learn more URL and Actual South West Performance Learn more Url is same (Varifying South West Performance Learn more URL - PASSED
+[2024-07-17T17:05:33,041] [main] INFO : URL opened successfully
+[2024-07-17T17:05:33,069] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-17T17:05:35,309] [main] INFO : Expected Apply now URL and Actual Apply now URL are same (verifying Sapphire Reserve Apply Now URL - Passed)
+[2024-07-17T17:05:38,325] [main] INFO : Expected Learn more URL and Actual Learn more URL are same (verifying Sapphire Reserve Learn more URL - Passed)
+[2024-07-17T17:09:21,852] [main] INFO : URL opened successfully
+[2024-07-17T17:09:21,886] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-17T17:09:22,017] [main] INFO : Clicked 'Apply now' button, a new window should open
+[2024-07-17T17:09:23,792] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Apply URL - Passed)
+[2024-07-17T17:09:26,727] [main] INFO : Expected Sapphire Preferred learn more URL and actual Sapphire Preferred learn more URL are same (verifying learn more URL - Passed)
+[2024-07-17T17:09:29,832] [main] INFO : Clicked Freedom Unlimited Apply, new window should open
+[2024-07-17T17:09:30,776] [main] INFO : Expected Apply now URL and Actual Apply now URL are not the same (verifying Freedom Apply URL - Failed)
+[2024-07-17T17:09:30,822] [main] INFO : Screenshot captured: C:\Users\rbhasker\eclipse-workspace\CreditCard\ScreenShots\HomePage_RewardsCardsActions.png
+[2024-07-17T17:15:26,514] [main] INFO : URL opened successfully
+[2024-07-17T17:15:26,539] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-17T17:15:26,674] [main] INFO : Clicked 'Apply now' button, a new window should open
+[2024-07-17T17:15:28,812] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Apply URL - Passed)
+[2024-07-17T17:15:31,606] [main] INFO : Expected Sapphire Preferred learn more URL and actual Sapphire Preferred learn more URL are same (verifying learn more URL - Passed)
+[2024-07-17T17:15:34,639] [main] INFO : Clicked Freedom Unlimited Apply, new window should open
+[2024-07-17T17:15:35,581] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Freedom Apply URL - Passed)
+[2024-07-17T17:15:38,584] [main] INFO : Expected Learn more URL and Actual Learn more URL are the same (verifying Freedom Learn moreURL - Passed)
+[2024-07-17T17:15:45,554] [main] INFO : Clicked Amazon learn more, new window should open
+[2024-07-17T17:15:45,563] [main] INFO : Expected Learn URL and Actual Learn more URL are the same (verifying Amazon learn more URL - Passed)
