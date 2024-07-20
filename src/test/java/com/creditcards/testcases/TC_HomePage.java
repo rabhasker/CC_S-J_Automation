@@ -292,7 +292,7 @@ public class TC_HomePage extends BaseClass {
 	
 /**********Business Cards Action Class***************/
 	
-	@Test(enabled = false, priority = 3)
+	@Test(enabled = true, priority = 3)
 	public void verifyingHomePage_BusinessCardsActions()
 	{
 		//capture main page window handle
