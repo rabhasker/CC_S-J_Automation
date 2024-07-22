@@ -311,3 +311,20 @@
 [2024-07-17T17:15:38,584] [main] INFO : Expected Learn more URL and Actual Learn more URL are the same (verifying Freedom Learn moreURL - Passed)
 [2024-07-17T17:15:45,554] [main] INFO : Clicked Amazon learn more, new window should open
 [2024-07-17T17:15:45,563] [main] INFO : Expected Learn URL and Actual Learn more URL are the same (verifying Amazon learn more URL - Passed)
+[2024-07-22T11:23:52,553] [main] INFO : URL opened successfully
+[2024-07-22T11:23:52,590] [main] INFO : Navigating to URL: https://creditcards.chase.com/
+[2024-07-22T11:23:52,751] [main] INFO : Clicked 'Apply now' button, a new window should open
+[2024-07-22T11:23:54,987] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Apply URL - Passed)
+[2024-07-22T11:23:58,075] [main] INFO : Expected Sapphire Preferred learn more URL and actual Sapphire Preferred learn more URL are same (verifying learn more URL - Passed)
+[2024-07-22T11:24:01,090] [main] INFO : Clicked Freedom Unlimited Apply, new window should open
+[2024-07-22T11:24:01,707] [main] INFO : Expected Apply now URL and Actual Apply now URL are the same (verifying Freedom Apply URL - Passed)
+[2024-07-22T11:24:04,516] [main] INFO : Expected Learn more URL and Actual Learn more URL are the same (verifying Freedom Learn moreURL - Passed)
+[2024-07-22T11:24:10,716] [main] INFO : Clicked Amazon learn more, new window should open
+[2024-07-22T11:24:10,725] [main] INFO : Expected Learn URL and Actual Learn more URL are the same (verifying Amazon learn more URL - Passed)
+[2024-07-22T11:24:15,475] [main] INFO : Expected Apply now URL and Actual Apply now URL is same ( Verifying Ink Cash Apply now URL - Passed
+[2024-07-22T11:24:18,193] [main] INFO : Expected Ink cash learn more URL and Actual Ink cash URL is same (Verifying Ink cash Learn more URL - Passed 
+[2024-07-22T11:24:21,832] [main] INFO : Expected Ink Preferred Apply now URL and Actual Ink Preferred Apply now URL is not same (Verifying Ink Preferred Apply now URL - FAILED
+[2024-07-22T11:24:21,907] [main] INFO : Screenshot captured: C:\Users\rbhasker\eclipse-workspace\CreditCard\ScreenShots\verifyingHomePage_BusinessCardsActions.png
+[2024-07-22T11:24:24,396] [main] INFO : Expected Ink Preferred Learn more URL and Actual Ink Preferred Learn more URL is same (Varifying Ink Preferred Learn more URL - PASSED
+[2024-07-22T11:24:30,269] [main] INFO : Expected South West Performance Apply now URL and Actual South West Performance Apply URL is same (Varifying South West Performance Apply URL - PASSED
+[2024-07-22T11:24:33,242] [main] INFO : Expected South West Performance Learn more URL and Actual South West Performance Learn more Url is same (Varifying South West Performance Learn more URL - PASSED
